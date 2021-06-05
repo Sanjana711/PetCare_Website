@@ -1,0 +1,15 @@
+header{
+		background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(../g16.jpg);
+}
+.title{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.title h1{
+	color: #000000;
+	font-size: 30px;
+	text-align: left;
+}
